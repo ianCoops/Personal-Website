@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #393E46;
+    font-size: 8rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #393E46;
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: normal;
+}
+
+h3 {
+    color: #393E46;
+    font-family: 'Montserrat', sans-serif;     
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.top-container {
+    background-color: #6D9886;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #F2E7D5;
+}
+
+.bottom-container {
+    background-color: #6D9886;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.profile-image {
+    border-radius: 50%;
+    padding: 20px;
+    height: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.java-icon {
+    height: 150px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    float: left;
+}
+
+.android-icon {
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    float: right;
+}
+
+.html5-icon {
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    float: left;
+}
+
+.css-icon {
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    float: left;
+}
+
+.typescript-icon {
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    float: right;
+}
+
+.jQuery-icon {
+    height: 150px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    float: left;
+}
+
+.csharp-icon {
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    float: right;
+}
+
+.net-icon {
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 100px;
+    float: right;
+}
+
+.linkedIn-icon {
+    height: 50px;
+    padding: 5px;
+}
+
+.github-icon {
+    height: 50px;
+    padding: 5px;
+}
+
+.email-icon {
+    height: 50px;
+    padding: 5px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.author-attribute {
+    font-size: 11px;
+}
+
+.get-in-touch {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.bottom-hr {
+    margin-bottom: 0;
+}
+
+.author {
+    margin: 0;
+}
