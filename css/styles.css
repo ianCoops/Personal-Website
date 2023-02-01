@@ -23,7 +23,14 @@ h3 {
 }
 
 p {
-    color: #393E46;
+    line-height: 2;
+}
+
+.top-horizontal-rule {
+    border: dotted #6D9886 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto 100px auto;
 }
 
 .intro {
@@ -61,7 +68,6 @@ p {
     width: 50%;
     margin: 50px auto 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 .java-icon {
@@ -149,19 +155,33 @@ p {
     bottom: 300px;
 }
 
-.author-attribute {
-    font-size: 11px;
+.attribute {
+    font-size: 0.7rem;
+    padding-bottom: 10px;
 }
 
 .get-in-touch {
+    padding-top: 10px;
     margin-top: 0;
     margin-bottom: 0;
 }
 
 .bottom-hr {
     margin-bottom: 0;
+    border-bottom: none;
+}
+
+.contact-me-label {
+    color: #393E46;
+}
+
+a:hover {
+    color: #393E46;
 }
 
 .author {
+    color: #393E46;
     margin: 0;
+    padding-bottom: 10px;
+    font-size: 0.75rem;
 }
