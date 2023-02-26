@@ -70,6 +70,13 @@ p {
     text-align: left;
 }
 
+.my-skills {
+    background-color: #6D9886;
+    width: 50%;
+    height: 100px;
+    margin: auto;
+}
+
 .java-icon {
     height: 150px;
     padding-top: 30px;
